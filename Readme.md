@@ -18,7 +18,7 @@ This project is not affiliated with Philips Wiz Light, and it is an independent 
 Install this software with python
 
 ```bash
-  git clone https://github.com/ejinbt/wizclient/edit/main/Readme.md
+  git clone https://github.com/ejinbt/wizclient
   cd wizclient
   pip install -r requirements.txt
   python app.py
