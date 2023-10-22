@@ -44,8 +44,7 @@ Install this software with python
 Currently it only features Turning on and off , changing brightness. more features will come soon...
 ## Screenshots
 
-![App Screenshot][app-1.png]
-![IP range][app-2.png]
+![App Screenshot](app-1.png)
+![IP range](app-2.PNG)
 
 
-[def]: app-1.png
